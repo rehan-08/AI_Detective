@@ -1,0 +1,10 @@
+---
+id: A10
+type: system_log
+title: Valet stand log
+date: 2025-06-22
+event_date: 2025-06-21
+device: Valet ticket printer
+---
+22:33 | Clara Voss | Valet Stand | ENTRY
+22:55 | Clara Voss | Valet Stand | EXIT

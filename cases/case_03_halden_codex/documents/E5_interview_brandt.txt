@@ -1,0 +1,16 @@
+---
+id: E5
+type: witness_interview
+title: Interview with Dr Elias Brandt
+date: 2025-10-14
+event_date: 2025-10-10
+speaker: Elias Brandt
+---
+Q: Where were you on Friday evening?
+A: I was at home in Harrow from 18:30 until 23:30. I did not go to the dinner. I rang my sister Greta on the landline at about 21:05 and we spoke for half an hour.
+
+Q: Your badge opened the vault at 21:12.
+A: That is impossible. My badge was in my jacket, and the jacket hung in my office all week. The office is never locked.
+
+Q: You opposed the sale?
+A: Bitterly. I would sooner resign than see the Codex sold. I am also told I am to be dismissed, so make of that what you will.

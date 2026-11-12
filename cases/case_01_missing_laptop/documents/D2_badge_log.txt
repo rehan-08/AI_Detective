@@ -1,0 +1,24 @@
+---
+id: D2
+type: system_log
+title: Main Entrance badge reader export, 13-14 March
+date: 2025-03-14
+event_date: 2025-03-13
+device: Main Entrance badge reader
+---
+The Main Entrance is the only way in or out of Brightwell Studio. The fire door is alarmed and did not trigger.
+2025-03-13 08:31 | Tom Reyes | BADGE-1044 | Main Entrance | ENTRY
+2025-03-13 08:40 | Lena Fischer | BADGE-1102 | Main Entrance | ENTRY
+2025-03-13 08:52 | Priya Nair | BADGE-1187 | Main Entrance | ENTRY
+2025-03-13 09:05 | Sam Whitlock | BADGE-2210 | Main Entrance | ENTRY
+2025-03-13 09:10 | Mara Okafor | BADGE-1001 | Main Entrance | ENTRY
+2025-03-13 17:55 | Lena Fischer | BADGE-1102 | Main Entrance | EXIT
+2025-03-13 18:05 | Sam Whitlock | BADGE-2210 | Main Entrance | EXIT
+2025-03-13 18:20 | Tom Reyes | BADGE-1044 | Main Entrance | EXIT
+2025-03-13 18:52 | Mara Okafor | BADGE-1001 | Main Entrance | EXIT
+2025-03-13 19:42 | Sam Whitlock | BADGE-2210 | Main Entrance | ENTRY
+2025-03-13 19:58 | Sam Whitlock | BADGE-2210 | Main Entrance | EXIT
+2025-03-13 20:03 | Priya Nair | BADGE-1187 | Main Entrance | EXIT
+2025-03-14 07:55 | Mara Okafor | BADGE-1001 | Main Entrance | ENTRY
+2025-03-14 08:05 | Lena Fischer | BADGE-1102 | Main Entrance | ENTRY
+2025-03-14 08:12 | Tom Reyes | BADGE-1044 | Main Entrance | ENTRY

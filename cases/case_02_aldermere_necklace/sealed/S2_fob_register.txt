@@ -1,0 +1,11 @@
+---
+id: AS2
+type: system_log
+title: Key-control register, staff fobs, 21 June
+date: 2025-06-25
+event_date: 2025-06-21
+device: Key-control register
+---
+FOB-1 signed out to Duty Desk.
+FOB-2 signed out to Head Housekeeper.
+FOB-3 signed out to Victor Hale.

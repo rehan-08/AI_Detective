@@ -1,0 +1,13 @@
+---
+id: E8
+type: witness_interview
+title: Interview with Dr Sofia Lindqvist, visiting researcher
+date: 2025-10-14
+event_date: 2025-10-10
+speaker: Sofia Lindqvist
+---
+Q: When did you leave the Institute on Friday?
+A: I left the Reading Room at 20:30 and went straight home, and I stayed there all evening.
+
+Q: You had applied to study the Codex?
+A: Yes. My fellowship depends on access to it, and the application was refused twice.

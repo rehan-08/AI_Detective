@@ -1,0 +1,12 @@
+---
+id: A2
+type: system_log
+title: Room 512 door lock log
+date: 2025-06-22
+event_date: 2025-06-21
+device: Room 512 door lock
+---
+20:00 | Room 512 | guest keycard | EXIT
+22:39 | FOB-3 | Room 512 | ENTRY
+22:44 | FOB-3 | Room 512 | EXIT
+23:38 | Room 512 | guest keycard | ENTRY

@@ -1,0 +1,10 @@
+---
+id: E2
+type: system_log
+title: Vault door access log
+date: 2025-10-13
+event_date: 2025-10-10
+device: Vault door reader
+---
+21:12 | Elias Brandt | BADGE-0007 | Vault | ENTRY
+21:21 | Elias Brandt | BADGE-0007 | Vault | EXIT

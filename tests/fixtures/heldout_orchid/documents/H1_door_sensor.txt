@@ -1,0 +1,10 @@
+---
+id: H1
+type: system_log
+title: Orchid House door controller
+date: 2025-05-03
+event_date: 2025-05-02
+device: Orchid House door controller
+---
+19:18 door released for staff card of N. Trent, Orchid House
+19:41 door closed behind staff card of N. Trent, Orchid House

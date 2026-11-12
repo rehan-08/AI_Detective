@@ -1,0 +1,8 @@
+---
+id: AS1
+type: document
+title: Facilities ticket 7719, Ballroom NVR
+date: 2025-06-25
+event_date: 2025-06-21
+---
+The Ballroom NVR clock runs 25 minutes fast since the May firmware update. It has not been corrected. Footage timestamps from that recorder must be adjusted when compared with other systems. The door locks, lifts, tablets and tills all sync to network time and are unaffected.

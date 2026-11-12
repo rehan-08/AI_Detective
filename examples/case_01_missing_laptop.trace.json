@@ -1,0 +1,222 @@
+[
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D1 (incident_report): 2 events, 0 signals, 0 defeaters, 1 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D2 (system_log): 9 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D3 (witness_interview): 1 events, 2 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D4 (witness_interview): 1 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D5 (witness_interview): 2 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D6 (witness_interview): 1 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D7 (chat): 0 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D8 (cctv): 4 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D9 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D10 (email): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "D11 (document): 0 events, 0 signals, 0 defeaters, 1 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "assess",
+    "observation": "Round 0 (Initial review of the open case file): leader Sam Whitlock, confidence MEDIUM.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "uncover",
+    "observation": "Opened lead L1: Stolen-goods enquiry: second-hand shops asked to check intake records for the laptop serial number -> S1. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "extract",
+    "observation": "S1 (financial_record): 0 events, 0 signals, 0 defeaters, 2 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "assess",
+    "observation": "Round 1 (Uncovered S1: QuickCash Exchange intake receipt): leader Sam Whitlock, confidence HIGH.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Record D2 places Sam Whitlock at Brightwell Studio at 19:42.",
+    "citations": [
+      {
+        "passage_id": "D2:p11",
+        "quote": "2025-03-13 19:42 | Sam Whitlock | BADGE-2210 | Main Entrance | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[assumption] BADGE-2210 was used by Sam Whitlock personally.",
+    "citations": [
+      {
+        "passage_id": "D2:p11",
+        "quote": "2025-03-13 19:42 | Sam Whitlock | BADGE-2210 | Main Entrance | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Record D8 places Sam Whitlock at Lobby at 19:42.",
+    "citations": [
+      {
+        "passage_id": "D8:p2",
+        "quote": "19:42 | Lobby | Sam Whitlock enters with empty hands and goes towards Studio B."
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Record D8 places Sam Whitlock at Lobby at 19:58.",
+    "citations": [
+      {
+        "passage_id": "D8:p3",
+        "quote": "19:58 | Lobby | Sam Whitlock leaves carrying a black laptop sleeve."
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Sam Whitlock's account is contradicted: D5 places Sam Whitlock at Home of Sam Whitlock (18:05-23:59), but D2 places Sam Whitlock at Brightwell Studio (19:42-19:58).",
+    "citations": [
+      {
+        "passage_id": "D5:p1",
+        "quote": "I left the studio at 18:05 and went straight home to Leyton, and I stayed there all evening."
+      },
+      {
+        "passage_id": "D2:p11",
+        "quote": "2025-03-13 19:42 | Sam Whitlock | BADGE-2210 | Main Entrance | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Sam Whitlock's account is contradicted: D5 places Sam Whitlock at Home of Sam Whitlock (18:05-23:59), but D8 places Sam Whitlock at Lobby (19:42).",
+    "citations": [
+      {
+        "passage_id": "D5:p1",
+        "quote": "I left the studio at 18:05 and went straight home to Leyton, and I stayed there all evening."
+      },
+      {
+        "passage_id": "D8:p2",
+        "quote": "19:42 | Lobby | Sam Whitlock enters with empty hands and goes towards Studio B."
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[fact] Sam Whitlock is linked to C02XK7741 through: Sam Whitlock -> +44 7700 900412 -> c02xk7741.",
+    "citations": [
+      {
+        "passage_id": "D11:p1",
+        "quote": "+44 7700 900412"
+      },
+      {
+        "passage_id": "S1:p1",
+        "quote": "+44 7700 900412"
+      },
+      {
+        "passage_id": "D1:p1",
+        "quote": "C02XK7741"
+      },
+      {
+        "passage_id": "S1:p1",
+        "quote": "C02XK7741"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[assumption] Sam Whitlock may have had a motive: Sam kept asking people for small loans last month.",
+    "citations": [
+      {
+        "passage_id": "D3:p3",
+        "quote": "Sam kept asking people for small loans last month."
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[assumption] Sam Whitlock may have had a motive: 2025-03-12 13:02 | DM | Sam Whitlock to Tom Reyes: my landlord is chasing me, I am two months behind on rent and I owe Dev 1400 pounds",
+    "citations": [
+      {
+        "passage_id": "D7:p3",
+        "quote": "2025-03-12 13:02 | DM | Sam Whitlock to Tom Reyes: my landlord is chasing me, I am two months behind on rent and I owe Dev 1400 pounds"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "action": "finding",
+    "observation": "[assumption] Suspicious conduct by Sam Whitlock: 19:58 | Lobby | Sam Whitlock leaves carrying a black laptop sleeve.",
+    "citations": [
+      {
+        "passage_id": "D8:p3",
+        "quote": "19:58 | Lobby | Sam Whitlock leaves carrying a black laptop sleeve."
+      }
+    ]
+  }
+]

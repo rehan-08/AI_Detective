@@ -1,0 +1,10 @@
+---
+id: A3
+type: system_log
+title: Service lift log
+date: 2025-06-22
+event_date: 2025-06-21
+device: Service lift controller
+---
+22:36 | FOB-3 | Fifth Floor | ENTRY
+22:46 | FOB-3 | Fifth Floor | EXIT

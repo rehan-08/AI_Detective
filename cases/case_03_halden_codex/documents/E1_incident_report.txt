@@ -1,0 +1,13 @@
+---
+id: E1
+type: incident_report
+title: Incident report by the Registrar
+date: 2025-10-13
+event_date: 2025-10-10
+speaker: Ruth Adeyemi
+---
+During the Monday condition check I found that the Lisbon Codex in the Vault is a forgery. The binding is close, but the vellum fluoresces under ultraviolet.
+
+The vault door log shows a single opening on the evening of Friday 10 October, during the donor dinner. I was at home in Ealing from 18:00 until 23:30 that evening.
+
+The trustees had agreed to explore a private sale of the Codex. Dr Brandt opposed the sale in writing and Dr Marsh led the negotiations.

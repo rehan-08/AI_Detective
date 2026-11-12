@@ -1,0 +1,11 @@
+---
+id: E16
+type: document
+title: Staff directory extract
+date: 2025-09-01
+event_date: 2025-10-10
+---
+Elias Brandt, Head Archivist: +44 20 7946 0118
+Helena Marsh, Deputy Director: +44 20 7946 0133
+Ruth Adeyemi, Registrar: +44 20 7946 0142
+Helena Marsh, personal mobile for out-of-hours calls: +44 7700 900733

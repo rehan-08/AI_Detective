@@ -1,0 +1,12 @@
+---
+id: D8
+type: cctv
+title: Lobby camera summary, evening of 13 March
+date: 2025-03-14
+event_date: 2025-03-13
+device: Lobby camera
+---
+18:20 | Lobby | Tom Reyes leaves carrying a gym bag.
+19:42 | Lobby | Sam Whitlock enters with empty hands and goes towards Studio B.
+19:58 | Lobby | Sam Whitlock leaves carrying a black laptop sleeve.
+20:03 | Lobby | Priya Nair leaves carrying only a handbag.

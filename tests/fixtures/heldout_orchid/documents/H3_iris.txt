@@ -1,0 +1,9 @@
+---
+id: H3
+type: witness_interview
+title: Conversation with Dr Iris Vane
+date: 2025-05-03
+event_date: 2025-05-02
+speaker: Iris Vane
+---
+My lecture ran in the Visitor Centre from half past six to a quarter past eight, with questions. A hundred people watched me do it.

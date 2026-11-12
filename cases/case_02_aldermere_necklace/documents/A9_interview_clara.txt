@@ -1,0 +1,13 @@
+---
+id: A9
+type: witness_interview
+title: Interview with Clara Voss, event planner
+date: 2025-06-22
+event_date: 2025-06-21
+speaker: Clara Voss
+---
+Q: Where were you from 22:30 to 22:50?
+A: I was in the Planner's Office from 22:30 until 22:50 finishing the auction paperwork.
+
+Q: You did not leave the hotel?
+A: No. I was working the whole time.

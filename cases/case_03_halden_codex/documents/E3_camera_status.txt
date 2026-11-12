@@ -1,0 +1,10 @@
+---
+id: E3
+type: system_log
+title: Security camera status log
+date: 2025-10-13
+event_date: 2025-10-10
+device: Camera status monitor
+---
+21:05 | Camera V2, vault corridor, went offline. Operator note: maintenance by J. Weber.
+21:25 | Camera V2, vault corridor, back online.

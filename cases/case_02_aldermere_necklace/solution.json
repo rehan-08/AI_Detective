@@ -1,0 +1,32 @@
+{
+  "culprit": "Victor Hale",
+  "accomplices": [],
+  "cleared": ["Nadia Petrov", "Julian Ashby", "Clara Voss"],
+  "minimum_confidence": "HIGH",
+  "key_evidence": ["A2", "A3", "A4", "A5", "A15"],
+  "key_evidence_after_leads": ["AS1", "AS2"],
+  "red_herring_documents": ["A17", "A16"],
+  "misleading_claims": ["Marcus Bell's sighting of Nadia Petrov", "Clara Voss's false office alibi", "Ballroom CCTV timestamps taken at face value"],
+  "expected_contradictions": [
+    {"person": "Nadia Petrov", "documents": ["A6", "A8"]},
+    {"person": "Clara Voss", "documents": ["A9", "A10"]},
+    {"person": "Victor Hale", "documents": ["A5", "A2"]}
+  ],
+  "expected_timeline": [
+    {"person": "Victor Hale", "time": "2025-06-21T22:05", "document": "A4"},
+    {"person": "Victor Hale", "time": "2025-06-21T22:36", "document": "A3"},
+    {"person": "Victor Hale", "time": "2025-06-21T22:39", "document": "A2"},
+    {"person": "Victor Hale", "time": "2025-06-21T22:44", "document": "A2"},
+    {"person": "Nadia Petrov", "time": "2025-06-21T22:37", "document": "A8"},
+    {"person": "Clara Voss", "time": "2025-06-21T22:33", "document": "A10"}
+  ],
+  "retrieval_probes": [
+    {"query": "who knows the master override code for the safe", "expected": ["A1", "A5"]},
+    {"query": "camera clock wrong timestamps", "expected": ["AS1"]},
+    {"query": "salary advance creditors", "expected": ["A15"]},
+    {"query": "who signed out fob 3", "expected": ["AS2"]},
+    {"query": "running order for the general manager address", "expected": ["A14"]}
+  ],
+  "first_round_leader": null,
+  "face_value_leader": "Nadia Petrov"
+}

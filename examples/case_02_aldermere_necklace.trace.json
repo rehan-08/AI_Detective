@@ -1,0 +1,305 @@
+[
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A1 (incident_report): 2 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A2 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A3 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A4 (cctv): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A5 (witness_interview): 1 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A6 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A7 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A8 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A9 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A10 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A11 (financial_record): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A12 (witness_interview): 1 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A13 (witness_interview): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A14 (document): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A15 (email): 0 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A16 (document): 0 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "A17 (email): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "assess",
+    "observation": "Round 0 (Initial review of the open case file): leader Victor Hale, confidence LOW.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "uncover",
+    "observation": "Opened lead L1: Facilities maintenance ticket on the Ballroom NVR video recorder and its clock -> AS1. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "extract",
+    "observation": "AS1 (document): 0 events, 0 signals, 1 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "assess",
+    "observation": "Round 1 (Uncovered AS1: Facilities ticket 7719, Ballroom NVR): leader Victor Hale, confidence MEDIUM.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "uncover",
+    "observation": "Opened lead L2: Key-control register showing who signed out each staff fob on gala night -> AS2. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "extract",
+    "observation": "AS2 (system_log): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 3,
+    "action": "assess",
+    "observation": "Round 2 (Uncovered AS2: Key-control register, staff fobs, 21 June): leader Victor Hale, confidence HIGH.",
+    "citations": []
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] Record A3 places Victor Hale at Fifth Floor at 22:36.",
+    "citations": [
+      {
+        "passage_id": "A3:p1",
+        "quote": "22:36 | FOB-3 | Fifth Floor | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[assumption] FOB-3 was used by Victor Hale personally.",
+    "citations": [
+      {
+        "passage_id": "A3:p1",
+        "quote": "22:36 | FOB-3 | Fifth Floor | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] Record A2 places Victor Hale at Room 512 at 22:39.",
+    "citations": [
+      {
+        "passage_id": "A2:p2",
+        "quote": "22:39 | FOB-3 | Room 512 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[assumption] FOB-3 was used by Victor Hale personally.",
+    "citations": [
+      {
+        "passage_id": "A2:p2",
+        "quote": "22:39 | FOB-3 | Room 512 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] Evidence was undermined: The Ballroom NVR clock runs 25 minutes fast",
+    "citations": [
+      {
+        "passage_id": "AS1:p1",
+        "quote": "The Ballroom NVR clock runs 25 minutes fast"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] After clock correction, A4 puts Victor Hale at Ballroom at 22:05, not 22:30 as stamped.",
+    "citations": [
+      {
+        "passage_id": "A4:p1",
+        "quote": "22:30 | Ballroom | Victor Hale begins his address at the lectern."
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] FOB-3 was assigned to Victor Hale.",
+    "citations": [
+      {
+        "passage_id": "AS2:p3",
+        "quote": "FOB-3"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] Victor Hale's account is contradicted: A5 places Victor Hale at Ballroom (22:30-22:50), but A3 places Victor Hale at Fifth Floor (22:36-22:46).",
+    "citations": [
+      {
+        "passage_id": "A5:p1",
+        "quote": "I was in the Ballroom from 22:30 until 22:50 giving my address."
+      },
+      {
+        "passage_id": "A3:p1",
+        "quote": "22:36 | FOB-3 | Fifth Floor | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[fact] Victor Hale's account is contradicted: A5 places Victor Hale at Ballroom (22:30-22:50), but A2 places Victor Hale at Room 512 (22:39-22:44).",
+    "citations": [
+      {
+        "passage_id": "A5:p1",
+        "quote": "I was in the Ballroom from 22:30 until 22:50 giving my address."
+      },
+      {
+        "passage_id": "A2:p2",
+        "quote": "22:39 | FOB-3 | Room 512 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[assumption] Victor Hale may have had a motive: Victor, this is your third request for a salary advance this year.",
+    "citations": [
+      {
+        "passage_id": "A15:p1",
+        "quote": "Victor, this is your third request for a salary advance this year."
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[assumption] Victor Hale had the means: Yes, I know the master code.",
+    "citations": [
+      {
+        "passage_id": "A5:p2",
+        "quote": "Yes, I know the master code."
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[speculation] Clara Voss gave a false account. The reason is unknown and need not relate to the crime.",
+    "citations": [
+      {
+        "passage_id": "A9:p1",
+        "quote": "I was in the Planner's Office from 22:30 until 22:50 finishing the auction paperwork."
+      },
+      {
+        "passage_id": "A10:p1",
+        "quote": "22:33 | Clara Voss | Valet Stand | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "action": "finding",
+    "observation": "[speculation] Marcus Bell gave a false account. The reason is unknown and need not relate to the crime.",
+    "citations": [
+      {
+        "passage_id": "A8:p1",
+        "quote": "22:37 | Nadia Petrov | Room 508 | ENTRY"
+      },
+      {
+        "passage_id": "A6:p1",
+        "quote": "I saw Nadia Petrov come out of Room 512 at about 22:42."
+      }
+    ]
+  }
+]

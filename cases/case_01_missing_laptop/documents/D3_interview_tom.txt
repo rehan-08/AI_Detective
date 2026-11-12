@@ -1,0 +1,16 @@
+---
+id: D3
+type: witness_interview
+title: Interview with Tom Reyes
+date: 2025-03-14
+event_date: 2025-03-13
+speaker: Tom Reyes
+---
+Q: When did you leave on Thursday?
+A: I left the studio at 18:20 and went straight home, and I stayed there all evening.
+
+Q: How do you feel about Mara?
+A: I was passed over for the senior role and she got the credit for my concept work. I was angry, sure, but I would never touch her laptop.
+
+Q: Anything else?
+A: Sam kept asking people for small loans last month. I do not know what that was about.

@@ -1,0 +1,9 @@
+---
+id: S1
+type: financial_record
+title: QuickCash Exchange intake receipt
+date: 2025-03-14
+event_date: 2025-03-14
+device: QuickCash till
+---
+Receipt 88213, 14 March 2025 at 12:20. Item bought for cash: MacBook Pro, serial C02XK7741. Seller contact phone: +44 7700 900412.

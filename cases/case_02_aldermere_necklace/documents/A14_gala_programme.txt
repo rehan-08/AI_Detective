@@ -1,0 +1,12 @@
+---
+id: A14
+type: document
+title: Gala running order
+date: 2025-06-21
+event_date: 2025-06-21
+---
+20:00 Drinks reception.
+21:00 Dinner.
+22:05 Address by the General Manager.
+22:30 Live music.
+22:50 Charity auction.

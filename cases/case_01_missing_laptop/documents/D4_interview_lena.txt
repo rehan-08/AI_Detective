@@ -1,0 +1,16 @@
+---
+id: D4
+type: witness_interview
+title: Interview with Lena Fischer
+date: 2025-03-14
+event_date: 2025-03-13
+speaker: Lena Fischer
+---
+Q: You hold the master key for the studio?
+A: Yes, I have the master key to every room. That is part of being office manager.
+
+Q: When did you leave on Thursday?
+A: I left the studio at 17:55 for a dental appointment and went straight home, and I stayed there all evening.
+
+Q: And Friday?
+A: I arrived at about 08:05, after Mara. She was already upset when I walked in.

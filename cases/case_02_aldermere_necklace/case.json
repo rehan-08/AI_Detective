@@ -1,0 +1,45 @@
+{
+  "id": "case_02_aldermere_necklace",
+  "title": "The Aldermere Necklace",
+  "difficulty": "twisted",
+  "briefing": "During a charity gala at the Aldermere Hotel, a sapphire necklace was taken from the safe in Room 512. Every suspect appears to have an alibi, and the most credible alibi belongs to the most powerful man in the building.",
+  "crime": {
+    "summary": "Theft of Eleanor Whitcombe's sapphire necklace from the room safe in Room 512. The door lock log records the only entry during the gala from 22:39 to 22:44.",
+    "location": "Room 512",
+    "window_start": "2025-06-21T22:39",
+    "window_end": "2025-06-21T22:44",
+    "artifact_ids": []
+  },
+  "suspects": [
+    {"name": "Victor Hale", "aliases": ["Mr Hale", "Hale", "Victor"], "role": "General manager"},
+    {"name": "Nadia Petrov", "aliases": ["Nadia", "Petrov", "N. Petrov"], "role": "Housekeeper"},
+    {"name": "Julian Ashby", "aliases": ["Julian", "Ashby", "J. Ashby"], "role": "Victim's nephew"},
+    {"name": "Clara Voss", "aliases": ["Clara", "Voss", "Ms Voss"], "role": "Event planner"}
+  ],
+  "people": [
+    {"name": "Eleanor Whitcombe", "aliases": ["Mrs Whitcombe"], "role": "Victim"},
+    {"name": "Marcus Bell", "aliases": ["Marcus", "Bell"], "role": "Bellhop"}
+  ],
+  "locations": [
+    {"name": "Aldermere Hotel", "aliases": ["the hotel"]},
+    {"name": "Fifth Floor", "aliases": ["floor 5", "fifth-floor"], "within": "Aldermere Hotel"},
+    {"name": "Room 512", "within": "Fifth Floor"},
+    {"name": "Room 508", "within": "Fifth Floor"},
+    {"name": "Ballroom", "within": "Aldermere Hotel"},
+    {"name": "Lobby Bar", "aliases": ["the bar"], "within": "Aldermere Hotel"},
+    {"name": "Valet Stand", "aliases": ["the valet stand"], "within": "Aldermere Hotel"},
+    {"name": "Planner's Office", "aliases": ["my office"], "within": "Aldermere Hotel"}
+  ],
+  "leads": [
+    {
+      "id": "L1",
+      "title": "Facilities maintenance ticket on the Ballroom NVR video recorder and its clock",
+      "document": "sealed/S1_nvr_ticket.txt"
+    },
+    {
+      "id": "L2",
+      "title": "Key-control register showing who signed out each staff fob on gala night",
+      "document": "sealed/S2_fob_register.txt"
+    }
+  ]
+}

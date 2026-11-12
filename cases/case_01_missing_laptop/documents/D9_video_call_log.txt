@@ -1,0 +1,11 @@
+---
+id: D9
+type: system_log
+title: Video-conference attendance log, Halberd weekly call
+date: 2025-03-14
+event_date: 2025-03-13
+device: Conference room system
+---
+Host device: Meeting Room 2 room system. Camera on for the full call.
+18:44 | Priya Nair | Meeting Room 2 | ENTRY
+20:00 | Priya Nair | Meeting Room 2 | EXIT

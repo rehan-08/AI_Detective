@@ -1,0 +1,16 @@
+---
+id: E7
+type: witness_interview
+title: Interview with Jonas Weber, security contractor
+date: 2025-10-14
+event_date: 2025-10-10
+speaker: Jonas Weber
+---
+Q: Where were you on Friday night?
+A: I was in the Security Control Room from 20:00 until 23:00.
+
+Q: Why did camera V2 go offline?
+A: Routine maintenance. It was on the schedule.
+
+Q: Do you do other work for anyone at the Institute?
+A: No. Only the Institute pays me.

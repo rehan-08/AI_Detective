@@ -1,0 +1,10 @@
+---
+id: A11
+type: financial_record
+title: Lobby Bar tab, card ending 4471
+date: 2025-06-22
+event_date: 2025-06-21
+device: Lobby Bar till
+---
+22:20 | Julian Ashby | Lobby Bar | ENTRY
+23:05 | Julian Ashby | Lobby Bar | EXIT

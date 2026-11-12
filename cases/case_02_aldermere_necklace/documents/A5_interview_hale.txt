@@ -1,0 +1,16 @@
+---
+id: A5
+type: witness_interview
+title: Interview with Victor Hale, general manager
+date: 2025-06-22
+event_date: 2025-06-21
+speaker: Victor Hale
+---
+Q: Where were you when the safe was opened?
+A: I was in the Ballroom from 22:30 until 22:50 giving my address. There are three hundred witnesses and it is all on the camera.
+
+Q: You know the master override code?
+A: Yes, I know the master code. So does the duty manager.
+
+Q: Is there any reason you would need money?
+A: None at all. The hotel pays me well.

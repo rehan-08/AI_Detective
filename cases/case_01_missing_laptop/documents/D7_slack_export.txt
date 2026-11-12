@@ -1,0 +1,12 @@
+---
+id: D7
+type: chat
+title: Slack export, selected messages from the week of 10 March
+date: 2025-03-14
+event_date: 2025-03-13
+---
+2025-03-11 10:14 | #design | Tom Reyes: honestly I'd love to see that pitch deck go up in smoke
+2025-03-11 10:15 | #design | Priya Nair: careful, Mara reads this channel
+2025-03-12 13:02 | DM | Sam Whitlock to Tom Reyes: my landlord is chasing me, I am two months behind on rent and I owe Dev 1400 pounds
+2025-03-12 13:04 | DM | Tom Reyes to Sam Whitlock: rough, sorry mate
+2025-03-13 16:20 | #office | Lena Fischer: reminder, coffee machine descaling on Friday

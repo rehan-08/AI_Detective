@@ -1,0 +1,9 @@
+---
+id: E18
+type: email
+title: Facilities notice about the boiler
+date: 2025-10-07
+event_date: 2025-10-10
+speaker: Facilities team
+---
+The east wing boiler will be serviced next Tuesday. Radiators may be cold until mid-afternoon. Please keep doors closed to retain heat.

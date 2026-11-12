@@ -1,0 +1,9 @@
+---
+id: H6
+type: financial_record
+title: Gift Shop till summary
+date: 2025-05-03
+event_date: 2025-05-02
+device: Gift Shop till
+---
+Operator Dele Okoro rang up sales continuously from 18:02 to 19:58 in the Gift Shop.

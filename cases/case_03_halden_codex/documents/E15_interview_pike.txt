@@ -1,0 +1,13 @@
+---
+id: E15
+type: witness_interview
+title: Interview with Owen Pike
+date: 2025-10-14
+event_date: 2025-10-10
+speaker: Owen Pike
+---
+Q: Where were you during the dinner?
+A: I was in the Great Hall from 19:30 until 23:00, at Table 1.
+
+Q: Did you know where the Codex would be coming from?
+A: I assumed a legitimate sale by the trustees. The broker never told me who was behind it.

@@ -1,0 +1,28 @@
+{
+  "culprit": "Sam Whitlock",
+  "accomplices": [],
+  "cleared": ["Tom Reyes", "Lena Fischer", "Priya Nair"],
+  "minimum_confidence": "HIGH",
+  "key_evidence": ["D2", "D5", "D8", "D7"],
+  "key_evidence_after_leads": ["S1", "D11"],
+  "red_herring_documents": ["D10"],
+  "misleading_claims": ["Tom Reyes's public anger over the pitch", "Lena Fischer's master key"],
+  "expected_contradictions": [
+    {"person": "Sam Whitlock", "documents": ["D5", "D2"]},
+    {"person": "Sam Whitlock", "documents": ["D5", "D8"]}
+  ],
+  "expected_timeline": [
+    {"person": "Mara Okafor", "time": "2025-03-13T18:52", "document": "D2"},
+    {"person": "Sam Whitlock", "time": "2025-03-13T19:42", "document": "D2"},
+    {"person": "Sam Whitlock", "time": "2025-03-13T19:58", "document": "D8"},
+    {"person": "Priya Nair", "time": "2025-03-13T20:03", "document": "D2"}
+  ],
+  "retrieval_probes": [
+    {"query": "who re-entered the building that evening", "expected": ["D2"]},
+    {"query": "who owes money or is behind on rent", "expected": ["D7"]},
+    {"query": "leaving carrying a laptop sleeve", "expected": ["D8"]},
+    {"query": "contractor phone number", "expected": ["D11"]}
+  ],
+  "first_round_leader": "Sam Whitlock",
+  "face_value_leader": null
+}

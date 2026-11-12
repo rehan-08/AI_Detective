@@ -1,0 +1,13 @@
+---
+id: A6
+type: witness_interview
+title: Interview with Marcus Bell, bellhop
+date: 2025-06-22
+event_date: 2025-06-21
+speaker: Marcus Bell
+---
+Q: What did you see upstairs?
+A: I saw Nadia Petrov come out of Room 512 at about 22:42. She was holding something against her apron.
+
+Q: How sure are you?
+A: Certain. Everyone knows she has money trouble.

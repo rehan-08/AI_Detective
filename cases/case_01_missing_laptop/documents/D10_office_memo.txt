@@ -1,0 +1,11 @@
+---
+id: D10
+type: email
+title: Office memo about the coffee machine and the printer
+date: 2025-03-12
+event_date: 2025-03-13
+speaker: Lena Fischer
+---
+Team, the coffee machine will be descaled on Friday, so please bring a flask.
+
+The second-floor printer is out of toner again. A replacement cartridge should arrive on Monday.

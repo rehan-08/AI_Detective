@@ -1,0 +1,13 @@
+---
+id: A7
+type: witness_interview
+title: Interview with Nadia Petrov, housekeeper
+date: 2025-06-22
+event_date: 2025-06-21
+speaker: Nadia Petrov
+---
+Q: Where were you at around 22:40?
+A: I was in Room 508 from 22:37 until 22:52 doing the turndown service. I logged it on my tablet as I always do.
+
+Q: Did you go into Room 512?
+A: No. I did not enter Room 512 that night. That room was marked do not disturb.

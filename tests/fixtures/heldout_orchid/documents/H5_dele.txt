@@ -1,0 +1,9 @@
+---
+id: H5
+type: witness_interview
+title: Conversation with Dele Okoro
+date: 2025-05-03
+event_date: 2025-05-02
+speaker: Dele Okoro
+---
+I was behind the till in the Gift Shop until we shut at eight. The sales receipts will back me up.

@@ -1,0 +1,52 @@
+{
+  "id": "case_03_halden_codex",
+  "title": "The Halden Codex",
+  "difficulty": "impossible",
+  "briefing": "During a donor dinner at the Halden Institute, the fifteenth-century Lisbon Codex was swapped for a forgery inside a locked vault. The physical evidence points squarely at the head archivist, who had every reason to do it.",
+  "crime": {
+    "summary": "The Lisbon Codex was removed from the Vault and replaced by a forgery. The vault door log records one opening, from 21:12 to 21:21.",
+    "location": "Vault",
+    "window_start": "2025-10-10T21:12",
+    "window_end": "2025-10-10T21:21",
+    "artifact_ids": ["Northgate Provenance Ltd"]
+  },
+  "suspects": [
+    {"name": "Elias Brandt", "aliases": ["Dr Brandt", "Brandt", "Elias", "E. Brandt"], "role": "Head archivist"},
+    {"name": "Helena Marsh", "aliases": ["Dr Marsh", "Marsh", "Helena", "H. Marsh"], "role": "Deputy director"},
+    {"name": "Jonas Weber", "aliases": ["Weber", "Jonas", "J. Weber"], "role": "Security contractor"},
+    {"name": "Sofia Lindqvist", "aliases": ["Sofia", "Lindqvist", "Dr Lindqvist"], "role": "Visiting researcher"},
+    {"name": "Owen Pike", "aliases": ["Pike", "Owen", "Mr Pike"], "role": "Collector and donor"},
+    {"name": "Ruth Adeyemi", "aliases": ["Ruth", "Adeyemi", "Ms Adeyemi"], "role": "Registrar"}
+  ],
+  "people": [
+    {"name": "Greta Brandt", "aliases": ["Greta"], "role": "Sister of Elias Brandt"}
+  ],
+  "locations": [
+    {"name": "Halden Institute", "aliases": ["the Institute"]},
+    {"name": "Level B2", "aliases": ["B2"], "within": "Halden Institute"},
+    {"name": "Vault", "aliases": ["the vault"], "within": "Level B2"},
+    {"name": "Level B1", "aliases": ["B1"], "within": "Halden Institute"},
+    {"name": "Reading Room", "aliases": ["the reading room"], "within": "Level B1"},
+    {"name": "Great Hall", "aliases": ["the donor dinner"], "within": "Halden Institute"},
+    {"name": "Security Control Room", "aliases": ["the control room"], "within": "Halden Institute"},
+    {"name": "Home of Elias Brandt", "aliases": ["Brandt residence", "home in Harrow"]},
+    {"name": "Home of Ruth Adeyemi", "aliases": ["home in Ealing"]}
+  ],
+  "leads": [
+    {
+      "id": "L1",
+      "title": "Carrier call records for the landline at the Brandt residence, to test the alibi and the badge log",
+      "document": "sealed/S1_carrier_records.txt"
+    },
+    {
+      "id": "L2",
+      "title": "Company registry extract and bank trail for the broker Northgate Provenance Ltd",
+      "document": "sealed/S2_northgate_registry.txt"
+    },
+    {
+      "id": "L3",
+      "title": "Service lift controller export for Level B2 on the night of the dinner",
+      "document": "sealed/S3_service_lift.txt"
+    }
+  ]
+}

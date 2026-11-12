@@ -1,0 +1,10 @@
+---
+id: D11
+type: document
+title: Contractor onboarding form
+date: 2025-01-06
+event_date: 2025-03-13
+---
+Contractor name: Sam Whitlock. Contact phone: +44 7700 900412.
+
+Engagement: IT support, two days a week. Contractor has admin rights on all studio laptops.

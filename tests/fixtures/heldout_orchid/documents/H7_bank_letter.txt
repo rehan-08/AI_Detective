@@ -1,0 +1,8 @@
+---
+id: H7
+type: email
+title: Letter from the building society
+date: 2025-04-28
+event_date: 2025-05-02
+---
+Dear Mr Trent, your mortgage is now three months in arrears. Unless the balance is cleared we will begin repossession proceedings.

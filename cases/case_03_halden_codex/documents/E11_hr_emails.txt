@@ -1,0 +1,11 @@
+---
+id: E11
+type: email
+title: HR emails about the head archivist
+date: 2025-10-06
+event_date: 2025-10-10
+speaker: HR department
+---
+Elias Brandt is to receive notice of dismissal after the donor dinner, following his letter to the trustees.
+
+Occupational health notes that Elias Brandt has a legal debt from his divorce, which he has been repaying slowly.

@@ -1,0 +1,9 @@
+---
+id: H4
+type: system_log
+title: Visitor Centre AV recording metadata
+date: 2025-05-03
+event_date: 2025-05-02
+device: Visitor Centre AV desk
+---
+Recording started 18:30 and stopped 20:15. Presenter on camera throughout: Dr Vane.

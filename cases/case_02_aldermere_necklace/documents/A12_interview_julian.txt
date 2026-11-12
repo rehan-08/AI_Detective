@@ -1,0 +1,13 @@
+---
+id: A12
+type: witness_interview
+title: Interview with Julian Ashby, nephew of the victim
+date: 2025-06-22
+event_date: 2025-06-21
+speaker: Julian Ashby
+---
+Q: Where were you?
+A: I was in the Lobby Bar from 22:20 until 23:05. The barman will tell you.
+
+Q: You stand to inherit from your aunt?
+A: I will inherit the necklace one day. Why would I steal what is coming to me anyway?

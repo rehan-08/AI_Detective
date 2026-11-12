@@ -1,0 +1,39 @@
+{
+  "id": "case_01_missing_laptop",
+  "title": "The Missing Prototype Laptop",
+  "difficulty": "easy",
+  "briefing": "A prototype MacBook holding a client pitch vanished overnight from Studio B at Brightwell Design Studio. Four people had some reason or means to take it.",
+  "crime": {
+    "summary": "Theft of a prototype MacBook from Mara Okafor's desk in Studio B.",
+    "location": "Studio B",
+    "window_start": "2025-03-13T18:50",
+    "window_end": "2025-03-14T07:55",
+    "artifact_ids": ["C02XK7741"]
+  },
+  "suspects": [
+    {"name": "Tom Reyes", "aliases": ["Tom", "Reyes"], "role": "Junior designer"},
+    {"name": "Lena Fischer", "aliases": ["Lena", "Fischer"], "role": "Office manager"},
+    {"name": "Sam Whitlock", "aliases": ["Sam", "Whitlock"], "role": "IT contractor"},
+    {"name": "Priya Nair", "aliases": ["Priya", "Nair"], "role": "Account manager"}
+  ],
+  "people": [
+    {"name": "Mara Okafor", "aliases": ["Mara", "Okafor"], "role": "Lead designer and victim"}
+  ],
+  "locations": [
+    {"name": "Brightwell Studio", "aliases": ["the studio", "the building", "Main Entrance"], "complete_access_log": true},
+    {"name": "Studio B", "within": "Brightwell Studio"},
+    {"name": "Meeting Room 2", "within": "Brightwell Studio"},
+    {"name": "Lobby", "within": "Brightwell Studio"},
+    {"name": "Home of Sam Whitlock", "aliases": ["home in Leyton"]},
+    {"name": "Home of Tom Reyes"},
+    {"name": "Home of Lena Fischer"},
+    {"name": "Home of Priya Nair"}
+  ],
+  "leads": [
+    {
+      "id": "L1",
+      "title": "Stolen-goods enquiry: second-hand shops asked to check intake records for the laptop serial number",
+      "document": "sealed/S1_shop_intake_receipt.txt"
+    }
+  ]
+}

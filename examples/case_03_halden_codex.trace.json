@@ -1,0 +1,309 @@
+[
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E1 (incident_report): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E2 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E3 (system_log): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E4 (document): 0 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E5 (witness_interview): 1 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E6 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E7 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E8 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E9 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E10 (cctv): 5 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E11 (email): 0 events, 2 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E12 (document): 0 events, 2 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E13 (anonymous_tip): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E14 (email): 0 events, 1 signals, 0 defeaters, 2 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E15 (witness_interview): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E16 (document): 0 events, 0 signals, 0 defeaters, 4 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E17 (document): 0 events, 1 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 0,
+    "action": "extract",
+    "observation": "E18 (email): 0 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "assess",
+    "observation": "Round 0 (Initial review of the open case file): leader Elias Brandt, confidence MEDIUM.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "uncover",
+    "observation": "Opened lead L1: Carrier call records for the landline at the Brandt residence, to test the alibi and the badge log -> ES1. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 1,
+    "action": "extract",
+    "observation": "ES1 (phone_record): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "assess",
+    "observation": "Round 1 (Uncovered ES1: Carrier call record for the Brandt landline, with subscriber confirmation): leader Helena Marsh, confidence MEDIUM. The leader changed from Elias Brandt.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "uncover",
+    "observation": "Opened lead L2: Company registry extract and bank trail for the broker Northgate Provenance Ltd -> ES2. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 2,
+    "action": "extract",
+    "observation": "ES2 (financial_record): 0 events, 0 signals, 0 defeaters, 3 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 3,
+    "action": "assess",
+    "observation": "Round 2 (Uncovered ES2: Registry extract and bank trail for Northgate Provenance Ltd): leader Helena Marsh, confidence MEDIUM.",
+    "citations": []
+  },
+  {
+    "round": 3,
+    "action": "uncover",
+    "observation": "Opened lead L3: Service lift controller export for Level B2 on the night of the dinner -> ES3. Confidence is below HIGH, and this lead bears on an open question.",
+    "citations": []
+  },
+  {
+    "round": 3,
+    "action": "extract",
+    "observation": "ES3 (system_log): 1 events, 0 signals, 0 defeaters, 0 identifiers admitted; 0 rejected.",
+    "citations": []
+  },
+  {
+    "round": 4,
+    "action": "assess",
+    "observation": "Round 3 (Uncovered ES3: Service lift controller export, Level B2): leader Helena Marsh, confidence HIGH.",
+    "citations": []
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[fact] Record ES3 places Helena Marsh at Level B2 at 21:08.",
+    "citations": [
+      {
+        "passage_id": "ES3:p1",
+        "quote": "21:08 | Helena Marsh | PIN-4471 | Level B2 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[assumption] PIN-4471 was used by Helena Marsh personally.",
+    "citations": [
+      {
+        "passage_id": "ES3:p1",
+        "quote": "21:08 | Helena Marsh | PIN-4471 | Level B2 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[assumption] BADGE-0007 was probably used by someone other than its holder. BADGE-0007 recorded at Vault while Elias Brandt is independently recorded at Home of Elias Brandt.",
+    "citations": [
+      {
+        "passage_id": "ES1:p1",
+        "quote": "21:04 | Elias Brandt | Home of Elias Brandt | ENTRY"
+      },
+      {
+        "passage_id": "E2:p1",
+        "quote": "21:12 | Elias Brandt | BADGE-0007 | Vault | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[fact] Helena Marsh's account is contradicted: E6 places Helena Marsh at Great Hall (19:30-23:00), but ES3 places Helena Marsh at Level B2 (21:08-21:29).",
+    "citations": [
+      {
+        "passage_id": "E6:p1",
+        "quote": "I was in the Great Hall from 19:30 until 23:00."
+      },
+      {
+        "passage_id": "ES3:p1",
+        "quote": "21:08 | Helena Marsh | PIN-4471 | Level B2 | ENTRY"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[fact] Helena Marsh's account is contradicted: E6 places Helena Marsh at Great Hall (19:30-23:00), but E10 places Helena Marsh not at Great Hall (21:15).",
+    "citations": [
+      {
+        "passage_id": "E6:p1",
+        "quote": "I was in the Great Hall from 19:30 until 23:00."
+      },
+      {
+        "passage_id": "E10:p3",
+        "quote": "21:15 | Great Hall | Owen Pike seated at Table 1. Helena Marsh's seat is empty."
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[fact] Helena Marsh is linked to Northgate Provenance Ltd through: Helena Marsh -> +44 7700 900733 -> northgate provenance ltd.",
+    "citations": [
+      {
+        "passage_id": "E16:p4",
+        "quote": "+44 7700 900733"
+      },
+      {
+        "passage_id": "ES2:p1",
+        "quote": "+44 7700 900733"
+      },
+      {
+        "passage_id": "E14:p1",
+        "quote": "Northgate Provenance Ltd"
+      },
+      {
+        "passage_id": "ES2:p1",
+        "quote": "Northgate Provenance Ltd"
+      },
+      {
+        "passage_id": "ES2:p2",
+        "quote": "Northgate Provenance Ltd"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[assumption] Helena Marsh may have had a motive: The bank has called in a personal loan guaranteed by Helena Marsh, who now owes 180000 pounds by the end of the year.",
+    "citations": [
+      {
+        "passage_id": "E17:p1",
+        "quote": "The bank has called in a personal loan guaranteed by Helena Marsh, who now owes 180000 pounds by the end of the year."
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[speculation] Jonas Weber may have assisted Helena Marsh; the file shows a link but not what was agreed.",
+    "citations": [
+      {
+        "passage_id": "ES2:p2",
+        "quote": "Northgate Provenance Ltd"
+      },
+      {
+        "passage_id": "E14:p1",
+        "quote": "Northgate Provenance Ltd"
+      },
+      {
+        "passage_id": "ES2:p1",
+        "quote": "Northgate Provenance Ltd"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "action": "finding",
+    "observation": "[speculation] Sofia Lindqvist gave a false account. The reason is unknown and need not relate to the crime.",
+    "citations": [
+      {
+        "passage_id": "E9:p1",
+        "quote": "17:02 | Sofia Lindqvist | Reading Room | ENTRY"
+      },
+      {
+        "passage_id": "E8:p1",
+        "quote": "I left the Reading Room at 20:30 and went straight home, and I stayed there all evening."
+      }
+    ]
+  }
+]

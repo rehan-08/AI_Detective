@@ -1,0 +1,27 @@
+{
+  "id": "heldout_orchid",
+  "title": "The Ghost Orchid",
+  "difficulty": "held-out",
+  "briefing": "A rare orchid vanished from the Orchid House at Larkspur Gardens during a Friday evening lecture.",
+  "crime": {
+    "summary": "A ghost orchid was cut from its mount in the Orchid House.",
+    "location": "Orchid House",
+    "window_start": "2025-05-02T19:00",
+    "window_end": "2025-05-02T20:00",
+    "artifact_ids": []
+  },
+  "suspects": [
+    {"name": "Noah Trent", "aliases": ["Noah", "Trent", "N. Trent"], "role": "Head gardener"},
+    {"name": "Iris Vane", "aliases": ["Iris", "Vane", "Dr Vane"], "role": "Curator"},
+    {"name": "Dele Okoro", "aliases": ["Dele", "Okoro"], "role": "Volunteer"}
+  ],
+  "people": [],
+  "locations": [
+    {"name": "Larkspur Gardens", "aliases": ["the gardens"]},
+    {"name": "Orchid House", "within": "Larkspur Gardens"},
+    {"name": "Visitor Centre", "within": "Larkspur Gardens"},
+    {"name": "Gift Shop", "within": "Larkspur Gardens"},
+    {"name": "Home of Noah Trent"}
+  ],
+  "leads": []
+}

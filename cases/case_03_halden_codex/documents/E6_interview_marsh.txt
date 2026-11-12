@@ -1,0 +1,16 @@
+---
+id: E6
+type: witness_interview
+title: Interview with Dr Helena Marsh, deputy director
+date: 2025-10-14
+event_date: 2025-10-10
+speaker: Helena Marsh
+---
+Q: Where were you during the dinner?
+A: I was in the Great Hall from 19:30 until 23:00. I did not leave my seat except to give the toast at 22:00.
+
+Q: Who do you think did this?
+A: I hate to say it, but Elias has been unstable for months. He knows that vault better than anyone.
+
+Q: Who were the buyers?
+A: The negotiations went through brokers. I never dealt with the money personally.

@@ -1,0 +1,10 @@
+---
+id: E4
+type: document
+title: Security maintenance schedule, October
+date: 2025-10-01
+event_date: 2025-10-10
+---
+Week of 6 October: no camera work is scheduled in the vault corridor. Quarterly firmware for the camera system is booked for 3 November.
+
+Jonas Weber said he disabled no camera without a signed work order, and no work order exists for 10 October.

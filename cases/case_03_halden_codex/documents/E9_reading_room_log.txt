@@ -1,0 +1,11 @@
+---
+id: E9
+type: system_log
+title: Reading Room sign-in log
+date: 2025-10-13
+event_date: 2025-10-10
+device: Reading Room terminal
+---
+17:02 | Sofia Lindqvist | Reading Room | ENTRY
+21:40 | Sofia Lindqvist | Reading Room | EXIT
+Note: the terminal recorded 214 page images of restricted folios saved to her session between 20:40 and 21:35.

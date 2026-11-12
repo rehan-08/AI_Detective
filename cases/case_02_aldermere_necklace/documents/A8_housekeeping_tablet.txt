@@ -1,0 +1,10 @@
+---
+id: A8
+type: system_log
+title: Housekeeping tablet log
+date: 2025-06-22
+event_date: 2025-06-21
+device: Housekeeping tablet
+---
+22:37 | Nadia Petrov | Room 508 | ENTRY
+22:52 | Nadia Petrov | Room 508 | EXIT

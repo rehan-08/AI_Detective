@@ -1,0 +1,9 @@
+---
+id: A17
+type: email
+title: Catering note about the gala dessert
+date: 2025-06-20
+event_date: 2025-06-21
+speaker: Head pastry chef
+---
+The lemon tart replaces the pear course because the supplier was short. Two guests at table nine need a nut-free option. Please tell the waiting staff.

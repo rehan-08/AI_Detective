@@ -1,0 +1,15 @@
+---
+id: D1
+type: incident_report
+title: Incident report filed by Mara Okafor
+date: 2025-03-14
+event_date: 2025-03-13
+speaker: Mara Okafor
+---
+I am the lead designer at Brightwell Design Studio. My prototype MacBook, serial number C02XK7741, holds the Halberd client pitch.
+
+I was working in Studio B until 18:50 on Thursday 13 March. The laptop was on my desk when I walked out.
+
+When I came back to Studio B on Friday morning, just before 08:00, the laptop was gone. The charger was still plugged in. Nothing else was touched.
+
+The pitch is due next week. Everyone in the team knew the laptop stayed on my desk overnight.

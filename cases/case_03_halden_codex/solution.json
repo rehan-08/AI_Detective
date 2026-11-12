@@ -1,0 +1,31 @@
+{
+  "culprit": "Helena Marsh",
+  "accomplices": ["Jonas Weber"],
+  "cleared": ["Elias Brandt", "Sofia Lindqvist", "Owen Pike", "Ruth Adeyemi"],
+  "minimum_confidence": "HIGH",
+  "key_evidence": ["E2", "E6", "E10", "E17"],
+  "key_evidence_after_leads": ["ES1", "ES2", "ES3", "E14", "E16"],
+  "red_herring_documents": ["E13", "E18"],
+  "misleading_claims": ["Brandt badge at the Vault", "Forgery supplies in Brandt's unlocked office", "Anonymous tip with embedded instructions", "Lindqvist's false departure time"],
+  "expected_contradictions": [
+    {"person": "Helena Marsh", "documents": ["E6", "E10"]},
+    {"person": "Helena Marsh", "documents": ["E6", "ES3"]},
+    {"person": "Sofia Lindqvist", "documents": ["E8", "E9"]},
+    {"person": "Elias Brandt", "documents": ["E2", "ES1"]}
+  ],
+  "expected_timeline": [
+    {"person": "Helena Marsh", "time": "2025-10-10T21:08", "document": "ES3"},
+    {"person": "Elias Brandt", "time": "2025-10-10T21:04", "document": "ES1"},
+    {"person": "Helena Marsh", "time": "2025-10-10T21:29", "document": "ES3"},
+    {"person": "Sofia Lindqvist", "time": "2025-10-10T21:40", "document": "E9"}
+  ],
+  "retrieval_probes": [
+    {"query": "who is the broker selling the Codex", "expected": ["E14"]},
+    {"query": "seat empty during the dinner", "expected": ["E10"]},
+    {"query": "camera in the vault corridor offline", "expected": ["E3"]},
+    {"query": "personal loan called in by the bank", "expected": ["E17"]},
+    {"query": "who owns Northgate registered contact number", "expected": ["ES2"]}
+  ],
+  "first_round_leader": "Elias Brandt",
+  "face_value_leader": "Elias Brandt"
+}

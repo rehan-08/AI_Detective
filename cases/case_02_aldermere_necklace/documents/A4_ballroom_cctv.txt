@@ -1,0 +1,11 @@
+---
+id: A4
+type: cctv
+title: Ballroom camera summary from the Ballroom NVR
+date: 2025-06-22
+event_date: 2025-06-21
+device: Ballroom NVR
+---
+22:30 | Ballroom | Victor Hale begins his address at the lectern.
+22:40 | Ballroom | Victor Hale speaks at the lectern.
+22:50 | Ballroom | Victor Hale finishes his address at the lectern.

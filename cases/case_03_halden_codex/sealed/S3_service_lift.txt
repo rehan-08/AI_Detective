@@ -1,0 +1,10 @@
+---
+id: ES3
+type: system_log
+title: Service lift controller export, Level B2
+date: 2025-10-17
+event_date: 2025-10-10
+device: Service lift controller
+---
+21:08 | Helena Marsh | PIN-4471 | Level B2 | ENTRY
+21:29 | Helena Marsh | PIN-4471 | Level B2 | EXIT

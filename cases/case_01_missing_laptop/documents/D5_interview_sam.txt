@@ -1,0 +1,16 @@
+---
+id: D5
+type: witness_interview
+title: Interview with Sam Whitlock
+date: 2025-03-14
+event_date: 2025-03-13
+speaker: Sam Whitlock
+---
+Q: When did you finish on Thursday?
+A: I left the studio at 18:05 and went straight home to Leyton, and I stayed there all evening.
+
+Q: You did not come back to the building that night?
+A: No. I did not come back. I was at home in Leyton from 18:45 until the next morning.
+
+Q: Do you have any idea who took the laptop?
+A: No idea. Honestly, you should look at Tom. He hates Mara.

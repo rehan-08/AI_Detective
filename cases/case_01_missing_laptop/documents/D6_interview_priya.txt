@@ -1,0 +1,16 @@
+---
+id: D6
+type: witness_interview
+title: Interview with Priya Nair
+date: 2025-03-14
+event_date: 2025-03-13
+speaker: Priya Nair
+---
+Q: Where were you on Thursday evening?
+A: I was in Meeting Room 2 from 18:45 until 20:00 on a client video call. Then I left.
+
+Q: Did you see anyone?
+A: No. Meeting Room 2 has no view of Studio B.
+
+Q: You and Mara both wanted to lead the Halberd pitch?
+A: Yes, we are rivals on that account. It is no secret.

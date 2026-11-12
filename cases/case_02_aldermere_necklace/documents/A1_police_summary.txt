@@ -1,0 +1,12 @@
+---
+id: A1
+type: incident_report
+title: Attending officer summary
+date: 2025-06-22
+event_date: 2025-06-21
+---
+Mrs Whitcombe reported the necklace missing at 23:40 after returning to Room 512. There was no forced entry.
+
+The safe audit trail shows the safe in Room 512 opened at 22:41 using the hotel master override code. Only the general manager and the duty manager know that code, and the duty manager was off site.
+
+Mrs Whitcombe says she left the necklace in the safe when she went down to the Ballroom at 20:00.

@@ -1,0 +1,11 @@
+---
+id: ES1
+type: phone_record
+title: Carrier call record for the Brandt landline, with subscriber confirmation
+date: 2025-10-16
+event_date: 2025-10-10
+device: Carrier switch
+---
+21:04 | Elias Brandt | Home of Elias Brandt | ENTRY
+21:33 | Elias Brandt | Home of Elias Brandt | EXIT
+Call detail: outgoing call from the fixed landline at the Brandt residence to Greta Brandt. Greta Brandt confirms she spoke to her brother throughout the call.

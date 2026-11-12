@@ -1,0 +1,13 @@
+---
+id: E10
+type: cctv
+title: Event photographer's contact sheet, Great Hall
+date: 2025-10-13
+event_date: 2025-10-10
+device: Photographer camera
+---
+20:50 | Great Hall | Owen Pike and Helena Marsh seated at Table 1.
+21:05 | Great Hall | Owen Pike seated at Table 1.
+21:15 | Great Hall | Owen Pike seated at Table 1. Helena Marsh's seat is empty.
+21:30 | Great Hall | Owen Pike seated at Table 1. Helena Marsh's seat is empty.
+21:45 | Great Hall | Owen Pike and Helena Marsh seated at Table 1.
